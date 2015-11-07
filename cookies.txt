@@ -1,0 +1,4 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.conf.agile-france.org	TRUE	/	FALSE	1999999999	SESS30964a23c4962747ccc322983b112cbe	f64c7fb08e146331b4a5d5733edf7a5f
+
